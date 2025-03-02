@@ -1,0 +1,260 @@
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\appsettings.Development.json
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\appsettings.json
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.staticwebassets.endpoints.json
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.exe
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.deps.json
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.runtimeconfig.json
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.pdb
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.csproj.AssemblyReference.cache
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.AssemblyInfoInputs.cache
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.AssemblyInfo.cs
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.csproj.CoreCompileInputs.cache
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\scopedcss\bundle\jwt_tooken_authentication.styles.css
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets.build.json
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets.development.json
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets\msbuild.jwt_tooken_authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets\msbuild.jwt_tooken_authentication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets\msbuild.build.jwt_tooken_authentication.props
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.jwt_tooken_authentication.props
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.jwt_tooken_authentication.props
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets.pack.json
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_took.6513CCBB.Up2Date
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\refint\jwt_tooken_authentication.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.pdb
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.genruntimeconfig.cache
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\ref\jwt_tooken_authentication.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Google.Protobuf.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Humanizer.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\MySql.Data.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\MySqlConnector.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.CodeDom.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ZstdSharp.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\MailKit.dll
+D:\cdac notes\dot net\exam\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\MimeKit.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\appsettings.Development.json
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\appsettings.json
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.staticwebassets.endpoints.json
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.exe
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.deps.json
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.runtimeconfig.json
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\jwt_tooken_authentication.pdb
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Google.Protobuf.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Humanizer.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\MailKit.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\MimeKit.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\MySql.Data.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\MySqlConnector.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.CodeDom.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ZstdSharp.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.csproj.AssemblyReference.cache
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.AssemblyInfoInputs.cache
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.AssemblyInfo.cs
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.csproj.CoreCompileInputs.cache
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\scopedcss\bundle\jwt_tooken_authentication.styles.css
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets.build.json
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets.development.json
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets\msbuild.jwt_tooken_authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets\msbuild.jwt_tooken_authentication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets\msbuild.build.jwt_tooken_authentication.props
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.jwt_tooken_authentication.props
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.jwt_tooken_authentication.props
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets.pack.json
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_took.6513CCBB.Up2Date
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\refint\jwt_tooken_authentication.dll
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.pdb
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\jwt_tooken_authentication.genruntimeconfig.cache
+D:\CdacAug2024\C#\AkshayNewFinalCode\jwt_tooken_authentication\jwt_tooken_authentication\obj\Debug\net9.0\ref\jwt_tooken_authentication.dll

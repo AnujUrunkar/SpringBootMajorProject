@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+sb15mw5jAPFmdv2gQQPQNVegmxDxJoHOnV6a3VdYxM=",
+  "Source": "jwt_tooken_authentication",
+  "BasePath": "_content/jwt_tooken_authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
