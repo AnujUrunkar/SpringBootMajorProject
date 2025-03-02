@@ -1,0 +1,101 @@
+/* ProfilePage.css */
+/* .container {
+    height: 50%;
+    background-color: #f3f4f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  } */
+  
+  /* .container{
+    align-items: center;
+  } */
+  .card {
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #4663e5;
+    margin-bottom: 15px;
+  }
+  
+  .input-group {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 10px
+  }
+  
+  .button {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .save-btn {
+    background: linear-gradient(to right, #04000ed5, #080808ea);
+  }
+  
+  .save-btn:hover {
+    opacity: 0.9;
+  }
+  
+  .table-container {
+    margin-top: 20px;
+    overflow-x: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+    
+  }
+  
+  th {
+    background-color: #04010ae8;
+    color: white;
+  }
+  
+  td .edit-btn {
+    background-color: #38a169;
+  }
+  
+  td .delete-btn {
+    background-color: #e53e3e;
+  }
+  
+  td .edit-btn:hover {
+    background-color: #2f855a;
+  }
+  
+  td .delete-btn:hover {
+    background-color: #c53030;
+  }
+  
